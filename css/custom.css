@@ -914,6 +914,30 @@ body.preloader-site {
   min-height: 24rem;
 }
 
+.invitation-foto4 {
+  background-image:url("../image/invitation/4.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat:no-repeat;
+  min-height: 24rem;
+}
+
+.invitation-foto5 {
+  background-image:url("../image/invitation/5.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat:no-repeat;
+  min-height: 24rem;
+}
+
+.invitation-foto6 {
+  background-image:url("../image/invitation/6.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat:no-repeat;
+  min-height: 24rem;
+}
+
 .title-foto {
   font-size: 18pt;
   font-family: 'Lato', sans-serif;
